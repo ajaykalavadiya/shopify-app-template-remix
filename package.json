@@ -23,6 +23,7 @@
     "node": ">=18.20.0"
   },
   "dependencies": {
+    "@vercel/remix" : "2.9.2-patch.2"
     "@prisma/client": "^5.11.0",
     "@remix-run/dev": "^2.7.1",
     "@remix-run/node": "^2.7.1",
